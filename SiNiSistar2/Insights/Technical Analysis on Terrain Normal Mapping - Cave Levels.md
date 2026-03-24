@@ -10,7 +10,7 @@ They were clearly illuminated by her light when positioned to the right of Lelia
 
 Though the textures are pixelated, the outcome looks like a photo of cobble stones lit from the **top-left**. 
 
-<video src="Media/sini2_cave_lighting.mkv" width="80%" controls title="Cave Lighting"></video>
+<video src="Media/sini2_cave_lighting.mp4" width="80%" controls title="Cave Lighting"></video>
 
 <img src="Media/textures.png" width="80%" />
 
