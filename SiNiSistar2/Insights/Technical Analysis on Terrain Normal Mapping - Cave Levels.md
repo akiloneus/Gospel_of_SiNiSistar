@@ -10,7 +10,7 @@ They were clearly illuminated by her light when positioned to the right of Lelia
 
 Though the textures are pixelated, the outcome looks like a photo of cobble stones lit from the **top-left**. 
 
-<video src="Media/sini2_cave_lighting.mp4" width="80%" controls title="Cave Lighting"></video>
+<img src="Media/sini2_cave_lighting.gif" width="80%" controls title="Cave Lighting">
 
 <img src="Media/textures.png" width="80%" />
 
@@ -25,7 +25,7 @@ Though the textures are pixelated, the outcome looks like a photo of cobble ston
 
 By setting the Texture Type to `Normal map` and applying a **Swizzle (1 - R)** to revert the X-axis, I was able to achieve standard physically-based lighting behavior.
 
-<video align="center" src="Media/unity_normal_alt.mkv" width="80%" controls title="Cave Lighting"></video>
+<img align="center" src="Media/unity_normal_alt.gif" width="80%" controls title="Cave Lighting">
 
 ### The Question:
 
@@ -44,7 +44,7 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 
 テクスチャはドット絵ですが、その視覚的な結果は、**左上からの光源に照らされた丸石の写真**のように見えます。
 
-<video align="center" src="Media/sini2_cave_lighting.mp4" width="80%" controls title="Cave Lighting"></video>
+<img align="center" src="Media/sini2_cave_lighting.gif" width="80%" controls title="Cave Lighting">
 
 <img src="Media/textures.png" width="80%" />
 
@@ -59,7 +59,7 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 
 `Texture Type` を `Normal map` に変更し、**Swizzle (1 - R)** を適用してX軸を反転させたところ、標準的な物理ベースのライティング挙動を再現することができました。
 
-<video align="center" src="Media/unity_normal_alt.mkv" width="80%" controls title="Cave Lighting"></video>
+<img align="center" src="Media/unity_normal_alt.gif" width="80%" controls title="Cave Lighting">
 
 ### 質問：
 
@@ -68,6 +68,12 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 いずれにせよ、ゲーム内では非常に独特で素晴らしい雰囲気を醸し出していると感じています。
 
 教えてください、ねんないさま！
+
+---
+
+## I tried Laigter, impressive
+
+<img align="center" src="Media/laigter_normal_demo.gif" width="80%" controls title="Cave Lighting">
 
 ---
 **Disclaimer:** All game assets (textures, characters, etc.) belong to Doujin circle **Uu**, the original developers of _SiNiSistar_ series. This repository is for technical analysis and educational purposes only.
