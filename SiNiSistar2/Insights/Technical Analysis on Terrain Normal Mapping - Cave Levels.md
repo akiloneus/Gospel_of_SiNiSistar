@@ -78,5 +78,4 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 ---
 **Disclaimer:** This analysis comes from a deep appreciation for the technical artistry in _SiNiSistar2_. My goal is to explore the unique rendering logic of the game, not to criticize. All game assets (textures, characters, etc.) belong to Doujin circle **Uu**, the original developers of _SiNiSistar_ series. This repository is for technical analysis and educational purposes only.
 
-**免責事項：** 本分析は、『SiNiSistar2』における技術的な造形美への深い敬意から生まれたものです。私の目的は、本作独自のレンダリングロジックを探索することであり、決して批判を意図するものではありません。
-テクスチャやキャラクター等の全てのゲームアセットは、同人サークル「Uu」様および『SiNiSistar』シリーズの元開発者様に帰属します。本リポジトリは、技術的な分析および学習目的のみで公開されています。
+**免責事項**：本考察は、『SiNiSistar2』における高度なグラフィック技術への深い敬意から生まれたものです。私の目的は、本作独自のレンダリングロジックを考察することであり、決して批判を意图するものではありません。テクスチャやキャラクター等の全てのゲームアセットは、同人サークル「Uu」様および『SiNiSistar』シリーズの権利者様に帰属します。本リポジトリは、技術的な分析および学習目的のみで公開されています。
