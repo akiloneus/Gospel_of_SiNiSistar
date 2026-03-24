@@ -44,7 +44,7 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 
 テクスチャはドット絵ですが、その視覚的な結果は、**左上からの光源に照らされた丸石の写真**のように見えます。
 
-<video align="center" src="Media/sini2_cave_lighting.mkv" width="80%" controls title="Cave Lighting"></video>
+<video align="center" src="Media/sini2_cave_lighting.mp4" width="80%" controls title="Cave Lighting"></video>
 
 <img src="Media/textures.png" width="80%" />
 
