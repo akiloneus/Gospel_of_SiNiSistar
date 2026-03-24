@@ -1,14 +1,16 @@
 
-[日本語版 (AI翻訳)](#japanese-version)
+[English version](#analysis) | [日本語版 (AI翻訳)](#日本語版-ai翻訳)
 
 ---
+
+## English version
 When I was playing on the cave levels of ***SiNiSistar2*** (v1.2.1), I noticed a unique lighting behavior—no matter which direction the light is from, the highlights were "locked" on the **left** edges of the stones. 
 
 They were clearly illuminated by her light when positioned to the right of Lelia; however, once Lelia passes them, they receded into darkness while still shimmering exclusively on their **left** edges. To figure out what caused that, I viewed the textures in Unity. 
 
 Though the textures are pixelated, the outcome looks like a photo of cobble stones lit from the **top-left**. 
 
-<video align="center" src="Media/sini2_cave_lighting.mkv" width="80%" controls title="Cave Lighting"></video>
+<video src="Media/sini2_cave_lighting.mkv" width="80%" controls title="Cave Lighting"></video>
 
 <img src="Media/textures.png" width="80%" />
 
@@ -16,7 +18,7 @@ Though the textures are pixelated, the outcome looks like a photo of cobble ston
 
 <img src="Media/texture_type.png" width="40%"><img src="Media/channel_swizzle.png" width="40%">
 
-## Key Observations:
+### Key Observations:
 
 - The Texture Type of the normal map appears not to be set to `Default` rather than `Normal map` in the inspector. 
 - The X-axis (Red channel) of the normal map seems to be inverted. 
@@ -25,15 +27,16 @@ By setting the Texture Type to `Normal map` and applying a **Swizzle (1 - R)** t
 
 <video align="center" src="Media/unity_normal_alt.mkv" width="80%" controls title="Cave Lighting"></video>
 
-## The Question:
+### The Question:
 
 I wonder, is this a technical oversight during the export process? Or is it a conscious stylistic choice that reduces specular reflections on terrains, creating a specific high-contrast look that matches the 2D pixel art aesthetic better than physically accurate lighting? It does provide a unique atmosphere in-game, after all.
 
 教えてください，ねんないさま！
 
 ---
-<div name="jp-version"></div>
-# 日本語版 (AI翻訳)
+
+
+## 日本語版 (AI翻訳)
 
 洞窟ステージをプレイ中、非常にユニークなライティングの挙動に気づきました。光源がいかなる方向にあっても、石のハイライトが常に「左端」に固定されているように見えたのです。
 
@@ -49,7 +52,7 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 
 <img src="Media/texture_type.png" width="40%"><img src="Media/channel_swizzle.png" width="40%">
 
-## 主な観察結果：
+### 主な観察結果：
 
 - **テクスチャタイプ:** インスペクター上で、法線マップの `Texture Type` が `Normal map` ではなく `Default` に設定されているようです。
 - **チャンネルの反転:** 法線マップの **X軸（Red チャンネル）** が反転しているように見受けられます。
@@ -58,7 +61,7 @@ I wonder, is this a technical oversight during the export process? Or is it a co
 
 <video align="center" src="Media/unity_normal_alt.mkv" width="80%" controls title="Cave Lighting"></video>
 
-## 質問：
+### 質問：
 
 これはエクスポート時の技術的な手違い（設定ミス）によるものでしょうか？ あるいは、地形の鏡面反射をあえて抑え、物理的に正確なライティングよりも、2Dドット絵の美学にマッチした高コントラストな外観を作り出すための意図的な演出なのでしょうか？
 
