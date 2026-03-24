@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SiNiSistar2/Insights/Technical Analysis on Terrain Normal Mapping - Cave Levels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Technical Analysis on Terrain Normal Mapping - Cave Levels"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SiNiSistar2/Insights/Technical Analysis on Terrain Normal Mapping - Cave Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Technical Analysis on Terrain Normal Mapping - Cave Levels"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SiNiSistar2/Insights/Technical Analysis on Terrain Normal Mapping - Cave Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Technical Analysis on Terrain Normal Mapping - Cave Levels"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "SiNiSistar2/Insights/Technical Analysis on Terrain Normal Mapping - Cave Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Technical Analysis on Terrain Normal Mapping - Cave Levels"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5b92f3bfde91ec5",
+  "active": "9dc5e58be05f2c71",
   "lastOpenFiles": [
+    "SiNiSistar2/Insights/Media/channel_swizzle.png",
+    "SiNiSistar2/Insights/Media/08a92cb7-d7aa-46eb-8549-ac64b8f7973c.png",
+    "SiNiSistar2/Insights/Media/texture_type.png",
+    "SiNiSistar2/Insights/Media/8054de3b-b4d4-423f-8b68-8413c4f491b0.png",
+    "SiNiSistar2/Insights/Media/textures.png",
+    "SiNiSistar2/Insights/Media/798fe155-0126-406a-90d5-c998d1873c81.png",
+    "SiNiSistar2/Insights/Media/unity_normal_alt.mkv",
+    "SiNiSistar2/Insights/Media/sini2_cave_lighting.mkv",
+    "SiNiSistar2/Insights/Media/laigter_normal_demo.mkv",
+    "SiNiSistar2/Insights/Technical Analysis on Terrain Normal Mapping - Cave Levels.md",
+    "README.md",
     "New Text Document.txt"
   ]
 }
