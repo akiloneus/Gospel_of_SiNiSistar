@@ -1,7 +1,7 @@
 # Gospel of SiNiSistar
 ***Eat, Sleep, SiNi, Repeat.***
 
-**SiNiSistar2 1周年おめでとう！**
+**SiNiSistar2 発売１周年おめでとう！**
 
 This repo is for things I would like to share about the *SiNiSistar* game series (e.g., plugins and thoughts). I have learned a lot from them.
 
