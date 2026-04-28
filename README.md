@@ -1,6 +1,8 @@
 # Gospel of SiNiSistar
 ***Eat, Sleep, SiNi, Repeat.***
 
+**SiNiSistar2 1周年おめでとう！**
+
 This repo is for things I would like to share about the *SiNiSistar* game series (e.g., plugins and thoughts). I have learned a lot from them.
 
 I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *SiNiSistar* series), but this is a way I express my love and passion for the series and the game industry. I hold the deepest admiration for the designer **Nennai** and the engineer **Miikun**.  
@@ -13,7 +15,7 @@ I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *
 
 I have built BepInEx plugins, primarily for *SiNiSistar2* in this repo, they may work in other Unity games as long as the compatible BepInEx is installed for the game. **Currently there are only versions for** [BepInEx-Unity.IL2CPP-win-x64-6.0.0-be](https://builds.bepinex.dev/projects/bepinex_be), which can be installed for *SiNiSistar2 (Win)*. 
 
-The logic behind these plugins are straightforward; it's not rocket science. I may make them open-source someday, but for now, please let me keep them proprietary for a while. 
+The logic behind these plugins are straightforward; it's not rocket science. I may make them open-source as stand-alone plugins someday, but for now, please let me keep them proprietary for a while. 
 
 **Current AkiTool includes:**
 
