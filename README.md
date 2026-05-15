@@ -17,7 +17,7 @@ I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *
 
 I have built BepInEx plugins, primarily for *SiNiSistar2* in this repo, they may work in other Unity games as long as the compatible BepInEx is installed for the game. **Currently there are only versions for** [BepInEx-Unity.IL2CPP-win-x64-6.0.0-be](https://builds.bepinex.dev/projects/bepinex_be), which can be installed for *SiNiSistar2 (Win)*. 
 
-The logic behind these plugins are straightforward; it's not rocket science. I may make them open-source as stand-alone plugins someday, but for now, please let me keep them proprietary for a while. 
+The logic behind these plugins are simple and straightforward. I may make them open-source as stand-alone plugins someday, but for now, please let me keep them proprietary for a while. 
 
 **Current AkiTool includes:**
 
