@@ -1,3 +1,4 @@
+**SiNiSistar2 Steam Releaseおめでとう！**
 - Looking for SiNiSistar Mouse Input Mod? Check the [Plugins section](https://github.com/akiloneus/Gospel_of_SiNiSistar#plugins) below.
 ---
 # Gospel of SiNiSistar
