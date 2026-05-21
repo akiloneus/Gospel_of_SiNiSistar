@@ -1,5 +1,6 @@
 **SiNiSistar2 Steam Releaseおめでとう！**
 - Looking for SiNiSistar Mouse Input Mod? Check the [Plugins section](https://github.com/akiloneus/Gospel_of_SiNiSistar#plugins) below.
+- There is an easier way to install. Check [this steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3727784012).
 ---
 # Gospel of SiNiSistar
 ***Eat, Sleep, SiNi, Repeat.***
@@ -13,7 +14,7 @@ I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *
 **For the developers of *SiNiSistar*:** I totally respect your work and intellectual property. If you have any concerns regarding this repo, please contact me, and I will take it down immediately. 
 
 
-## Plugins
+## Plugins - SiNiSinputar2
 ![GitHub release](https://img.shields.io/github/v/release/Akiloneus/Gospel_of_SiNiSistar)
 
 I have built BepInEx plugins, primarily for *SiNiSistar2* in this repo, they may work in other Unity games as long as the compatible BepInEx is installed for the game. **Currently there are only versions for** [BepInEx-Unity.IL2CPP-win-x64-6.0.0-be](https://builds.bepinex.dev/projects/bepinex_be), which can be installed for *SiNiSistar2 (Win)*. 
