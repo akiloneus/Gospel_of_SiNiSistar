@@ -8,7 +8,7 @@
 
 This repo is for things I would like to share about the *SiNiSistar* game series (e.g., plugins and thoughts). I have learned a lot from them.
 
-I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *SiNiSistar* series), but this is a way I express my love and passion for the series and the game industry. I hold the deepest admiration for the designer **Nennai** and the engineer **Miikun**.  
+I am not sure if such behavior is endorsed by **Uu** (the doujin circle behind *SiNiSistar* series), but this is a way I express my love and passion for the series and the game industry. I hold the deepest worship for the designer **Nennai** and the engineer **Miikun**.  
 
 **For the developers of *SiNiSistar*:** I totally respect your work and intellectual property. If you have any concerns regarding this repo, please contact me, and I will take it down immediately. 
 
